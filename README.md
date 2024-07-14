@@ -1,4 +1,4 @@
-# Online-Banking-App  PYthon Project
+# Online-Banking-App  Python Project
 This code implements an interactive online banking application where users can sign in, check their account balance, deposit and withdraw money, transfer funds to other accounts, calculate deposit interest rates, and calculate compound interest based on the principal amount.
 1. Description:
    The application begins with a welcome message to introduce users to the online banking system.
